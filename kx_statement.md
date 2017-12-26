@@ -1,4 +1,4 @@
-title: privacy policy/terms of use
+privacy policy/terms of use
 ---
 Welcome!
 So you have purchased our K Smart device and are starting to use the devices! Any information you share with us (e.g. for creating a K Smart Account) will help us to provide you with services related to K Smart device and to improve them to make them even better. We explain here our ways of collecting and using information, and how we protect your privacy. In this privacy policy, “personal data” means information that can be used to identify an individual, either from that information alone, or from that information and other information we have access to about that individual. We collect both personal and non-personal data to enable and facilitate the best user experience possible.
